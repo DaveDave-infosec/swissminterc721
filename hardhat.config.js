@@ -1,7 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox");
 require("@nomicfoundation/hardhat-ethers");
 
-const PRIVATE_KEY = "e40c89312c4f9afe90f81ef83e7fc57df72d4108d5c44f6f97fb5dada175b74e";
+const PRIVATE_KEY = "";
 
 module.exports = {
   defaultNetwork: "swisstronik",
